@@ -1,4 +1,4 @@
-import classes from "./CssModules.module.scss";
+import classes from "./components/CssModules.module.scss";
 
 export const CssModules = () => {
   return (
