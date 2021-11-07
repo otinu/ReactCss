@@ -1,2 +1,2 @@
-# ReactCss
+# ReactStudy
 Created with CodeSandbox
