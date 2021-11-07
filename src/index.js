@@ -1,5 +1,6 @@
 import ReactDOM from "react-dom";
-import { CssModules } from "./CssModules";
+//  import { CssModules } from "./CssModules";
+import { StyledComponents } from "./StyledComponents";
 
-// 第一引数で関数を<>で囲うことでコンポーネントとして扱われている
-ReactDOM.render(<CssModules />, document.getElementById("root"));
+//  ReactDOM.render(<CssModules />, document.getElementById("root"));
+ReactDOM.render(<StyledComponents />, document.getElementById("root"));
